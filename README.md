@@ -34,6 +34,7 @@ csv:
 
 2021-2024PlayersSalaries.csv : 2021-2024 NBA Player Salaries  
 
+Codes:  
 **Code_2_15AllStarPlayersSalaries.csv** : Specifically for Code2_RelationshipBetweenPerformanceAndSalaries.R, including 15 AllStarPlayers selected from AllStarPlayers we predicted from Code1.  
 
 Code1_PredictAllStarPlayers.R : With 2023-2024 NBA Player Regular Game Performance, to predict if a player can be all star player in the season, corresponding to the return list.  
@@ -44,6 +45,7 @@ Code2_RelationshipBetweenPerformanceAndSalaries.R : With 2021-2024 NBA Player Re
 
 Code3_FindPotentialPlayers.R : With the performance and salaries we have got from Code2, try to find players whose salaries do not match with performance. To find young and potential players, and classify them to High, Medium, Low potential players.  
 
+pptx:  
 Data Mining_NBA.pptx : Slides we made for presentation and recording.
 
 ## Collaboration  
