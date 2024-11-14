@@ -44,6 +44,8 @@ Code2_RelationshipBetweenPerformanceAndSalaries.R : With 2021-2024 NBA Player Re
 
 Code3_FindPotentialPlayers.R : With the performance and salaries we have got from Code2, try to find players whose salaries do not match with performance. To find young and potential players, and classify them to High, Medium, Low potential players.  
 
+Data Mining_NBA.pptx : Slides we made for presentation and recording.
+
 ## Collaboration  
 https://docs.google.com/document/d/1SVofc6MZUsdM31_2t_GF3ggmwYIYf3Z5m-3g21EQ_mg/edit?tab=t.0  
 
