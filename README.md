@@ -48,6 +48,38 @@ Code3_FindPotentialPlayers.R : With the performance and salaries we have got fro
 pptx:  
 Data Mining_NBA.pptx : Slides we made for presentation and recording.
 
+## Terminology
+- Rk: Rank of the player.
+- Player: Name of the player.
+- Pos: Position of the player (e.g., PF - Power Forward, C - Center, SG - Shooting Guard).
+- Age: Age of the player during the season.
+- Tm: Team the player was playing for (e.g., TOT indicates the player played for multiple teams).
+- G: Games played.
+- GS: Games started.
+- MP: Minutes played per game.
+- FG: Field goals made per game.
+- FGA: Field goals attempted per game.
+- FG%: Field goal percentage.
+- 3P: Three-pointers made per game.
+- 3PA: Three-pointers attempted per game.
+- 3P%: Three-point percentage.
+- 2P: Two-pointers made per game.
+- 2PA: Two-pointers attempted per game.
+- 2P%: Two-point percentage.
+- eFG%: Effective field goal percentage.
+- FT: Free throws made per game.
+- FTA: Free throws attempted per game.
+- FT%: Free throw percentage.
+- ORB: Offensive rebounds per game.
+- DRB: Defensive rebounds per game.
+- TRB: Total rebounds per game.
+- AST: Assists per game.
+- STL: Steals per game.
+- BLK: Blocks per game.
+- TOV: Turnovers per game.
+- PF: Personal fouls per game.
+- PTS: Points scored per game.
+
 ## Collaboration  
 https://docs.google.com/document/d/1SVofc6MZUsdM31_2t_GF3ggmwYIYf3Z5m-3g21EQ_mg/edit?tab=t.0  
 
