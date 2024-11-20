@@ -1,5 +1,7 @@
 # BusinessDataMiningProject
 Based on the NBA dataset with performance and salaries from 2021-2024.  
+The raw datasets of performance are collected from Kaggle. - https://www.kaggle.com/datasets/vivovinco/2023-2024-nba-player-stats  
+The raw datasets of salaries are collected from Hoopshype. - https://hoopshype.com/salaries/players/  
 
 ## Business Questions and Roadmap   
 1. Idea: Try to predict if a player can be an all-star player based on his performance, which would affect the revenue of each teams.
