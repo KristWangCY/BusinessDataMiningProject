@@ -52,13 +52,13 @@ Data Mining_NBA.pptx : Slides we made for presentation and recording.
 
 ## Terminology
 - Rk: Rank of the player.
-- Player: Name of the player.
+- **Player: Name of the player.**
 - Pos: Position of the player (e.g., PF - Power Forward, C - Center, SG - Shooting Guard).
-- Age: Age of the player during the season.
+- **Age: Age of the player during the season.**
 - Tm: Team the player was playing for (e.g., TOT indicates the player played for multiple teams).
-- G: Games played.
+- **G: Games played.**
 - GS: Games started.
-- MP: Minutes played per game.
+- **MP: Minutes played per game.**
 - FG: Field goals made per game.
 - FGA: Field goals attempted per game.
 - FG%: Field goal percentage.
@@ -74,13 +74,13 @@ Data Mining_NBA.pptx : Slides we made for presentation and recording.
 - FT%: Free throw percentage.
 - ORB: Offensive rebounds per game.
 - DRB: Defensive rebounds per game.
-- TRB: Total rebounds per game.
-- AST: Assists per game.
-- STL: Steals per game.
-- BLK: Blocks per game.
+- **TRB: Total rebounds per game.**
+- **AST: Assists per game.**
+- **STL: Steals per game.**
+- **BLK: Blocks per game.**
 - TOV: Turnovers per game.
 - PF: Personal fouls per game.
-- PTS: Points scored per game.
+- **PTS: Points scored per game.**
 
 ## Collaboration  
 https://docs.google.com/document/d/1SVofc6MZUsdM31_2t_GF3ggmwYIYf3Z5m-3g21EQ_mg/edit?tab=t.0  
